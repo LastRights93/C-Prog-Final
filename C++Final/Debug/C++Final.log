@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(298): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(591): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(592): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(628): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(629): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\jacob thomas\source\repos\c++final\c++final\source.cpp(707): warning C4715: 'computerChecksBoard': not all control paths return a value
+  C++Final.vcxproj -> c:\Users\jacob thomas\source\repos\C++Final\Debug\C++Final.exe
